@@ -1,0 +1,266 @@
+{
+	"adventurer": {
+		"name": "The Adventurer",
+		"icon": "",
+		"number": 0,
+		"numeral": "0",
+		"description": "",
+		"attribute_bonus": "BOD",
+		"skill_bonus": [
+			"mobility",
+			"orienteering"
+			]
+	},
+	"creator": {
+		"name": "The Creator",
+		"icon": "",
+		"number": 1,
+		"numeral": "I",
+		"description": "",
+		"attribute_bonus": "AGI",
+		"skill_bonus": [
+			"arts",
+			"engineering"
+			]
+	},
+	"mentor": {
+		"name": "The Mentor",
+		"icon": "",
+		"number": 2,
+		"numeral": "II",
+		"description": "",
+		"attribute_bonus": "INT",
+		"skill_bonus": [
+			"leadership",
+			"legends"
+			]
+	},	
+	"marytr": {
+		"name": "The Marytr",
+		"icon": "",
+		"number": 3,
+		"numeral": "III",
+		"description": "",
+		"attribute_bonus": "PSY",
+		"skill_bonus": [
+			"faith/willpower",
+			"toughness"
+			]
+	},	
+	"ruler": {
+		"name": "The Ruler",
+		"icon": "",
+		"number": 4,
+		"numeral": "IV",
+		"description": "",
+		"attribute_bonus": "CHA",
+		"skill_bonus": [
+			"cunning",
+			"leadership"
+			]
+	},
+	"seeker": {
+		"name": "The Seeker",
+		"icon": "",
+		"number": 5,
+		"numeral": "V",
+		"description": "",
+		"attribute_bonus": "INT",
+		"skill_bonus": [
+			"artifact lore",
+			"science"
+			]
+	},	
+	"healer": {
+		"name": "The Healer",
+		"icon": "",
+		"number": 6,
+		"numeral": "VI",
+		"description": "",
+		"attribute_bonus": "AGI",
+		"skill_bonus": [
+			"medicine",
+			"crafting"
+			]
+	},
+	"traditionalist": {
+		"name": "The Traditionalist",
+		"icon": "",
+		"number": 7,
+		"numeral": "VII",
+		"description": "",
+		"attribute_bonus": "INS",
+		"skill_bonus": [
+			"legends",
+			"conduct"
+			]
+	},	
+	"mediator": {
+		"name": "The Mediator",
+		"icon": "",
+		"number": 8,
+		"numeral": "VIII",
+		"description": "",
+		"attribute_bonus": "PSY",
+		"skill_bonus": [
+			"perception",
+			"negotiation"
+			]
+	},	
+	"hermit": {
+		"name": "The Hermit",
+		"icon": "",
+		"number": 9,
+		"numeral": "IX",
+		"description": "",
+		"attribute_bonus": "INS",
+		"skill_bonus": [
+			"survival",
+			"stealth"
+			]
+	},
+	"heretic": {
+		"name": "The Heretic",
+		"icon": "",
+		"number": 10,
+		"numeral": "X",
+		"description": "",
+		"attribute_bonus": "PSY",
+		"skill_bonus": [
+			"cunning",
+			"expression"
+			]
+	},
+	"conqueror": {
+		"name": "The Conqueror",
+		"icon": "",
+		"number": 11,
+		"numeral": "XI",
+		"description": "",
+		"attribute_bonus": "INS",
+		"skill_bonus": [
+			"toughness",
+			"force"
+			]
+	},
+	"abomination": {
+		"name": "The Abomination",
+		"icon": "",
+		"number": 12,
+		"numeral": "XII",
+		"description": "",
+		"attribute_bonus": "PSY",
+		"skill_bonus": [
+			"domination",
+			"toughness"
+			]
+	},
+	"destroyer": {
+		"name": "The Destroyer",
+		"icon": "",
+		"number": 13,
+		"numeral": "XIII",
+		"description": "",
+		"attribute_bonus": "INS",
+		"skill_bonus": [
+			"stamina",
+			"force"
+			]
+	},
+	"chosen": {
+		"name": "The Chosen",
+		"icon": "",
+		"number": 14,
+		"numeral": "XIV",
+		"description": "",
+		"attribute_bonus": "CHA",
+		"skill_bonus": [
+			"expression",
+			"leadership"
+			]
+	},
+	"defiler": {
+		"name": "The Defiler",
+		"icon": "",
+		"number": 15,
+		"numeral": "XV",
+		"description": "",
+		"attribute_bonus": "PSY",
+		"skill_bonus": [
+			"deception",
+			"domination"
+			]
+	},
+	"protector": {
+		"name": "The Protector",
+		"icon": "",
+		"number": 16,
+		"numeral": "XVI",
+		"description": "",
+		"attribute_bonus": "PSY",
+		"skill_bonus": [
+			"stamina",
+			"toughness"
+			]
+	},
+	"visionary": {
+		"name": "The Visionary",
+		"icon": "",
+		"number": 17,
+		"numeral": "XVII",
+		"description": "",
+		"attribute_bonus": "CHA",
+		"skill_bonus": [
+			"seduction",
+			"cunning"
+			]
+	},
+	"zealot": {
+		"name": "The Zealot",
+		"icon": "",
+		"number": 18,
+		"numeral": "XVIII",
+		"description": "",
+		"attribute_bonus": "INS",
+		"skill_bonus": [
+			"reaction",
+			"faith/willpower"
+			]
+	},
+	"disciple": {
+		"name": "The Disciple",
+		"icon": "",
+		"number": 19,
+		"numeral": "XIX",
+		"description": "",
+		"attribute_bonus": "CHA",
+		"skill_bonus": [
+			"empathy",
+			"perception"
+			]
+	},
+	"righteous": {
+		"name": "The Righteous",
+		"icon": "",
+		"number": 20,
+		"numeral": "XX",
+		"description": "",
+		"attribute_bonus": "INT",
+		"skill_bonus": [
+			"cunning",
+			"negotiation"
+			]
+	},
+	"traveler": {
+		"name": "The Traveler",
+		"icon": "",
+		"number": 21,
+		"numeral": "XXI",
+		"description": "",
+		"attribute_bonus": "INS",
+		"skill_bonus": [
+			"legends",
+			"orienteering"
+			]
+	}
+}
