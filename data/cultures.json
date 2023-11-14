@@ -1,0 +1,170 @@
+{
+  "borca": {
+    "name": "Borca",
+    "icon": "",
+    "common_cults": [
+      "anabaptists",
+      "apocalyptics",
+      "chroniclers",
+      "clanners",
+      "hellvetics",
+      "jehammedans",
+      "judges",
+      "scrappers",
+      "spitalians"
+    ],
+    "attribute_bonus": [
+      "AGI",
+      "INS"
+    ],
+    "skill_bonus": [
+      "toughness",
+      "artifact lore",
+      "engineering",
+      "crafting",
+      "survival"
+    ]
+  },
+  "franka": {
+    "name": "Franka",
+    "icon": "",
+    "common_cults": [
+      "anabaptists",
+      "apocalyptics",
+      "chroniclers",
+      "clanners",
+      "hellvetics",
+      "judges",
+      "scrappers",
+      "spitalians"
+    ],
+    "attribute_bonus": [
+      "CHA",
+      "INS"
+    ],
+    "skill_bonus": [
+      "stamina",
+      "stealth",
+      "negotiation",
+      "faith/willpower",
+      "deception"
+    ]
+  },
+  "pollen": {
+    "name": "Pollen",
+    "icon": "",
+    "common_cults": [
+      "anabaptists",
+      "apocalyptics",
+      "chroniclers",
+      "clanners",
+      "scrappers",
+      "spitalians"
+    ],
+    "attribute_bonus": [
+      "BOD",
+      "INS"
+    ],
+    "skill_bonus": [
+      "melee",
+      "stamina",
+      "legends",
+      "survival",
+      "empathy"
+    ]
+  },
+  "balkhan": {
+    "name": "Balkhan",
+    "icon": "",
+    "common_cults": [
+      "apocalyptics",
+      "clanners",
+      "hellvetics",
+      "jehammedans",
+      "palers",
+      "scrappers"
+    ],
+    "attribute_bonus": [
+      "BOD",
+      "PSY"
+    ],
+    "skill_bonus": [
+      "brawl",
+      "force",
+      "leadership",
+      "reaction",
+      "empathy"
+    ]
+  },
+  "hybrispania": {
+    "name": "Hybrispania",
+    "icon": "",
+    "common_cults": [
+      "anubians",
+      "apocalyptics",
+      "clanners",
+      "jehammedans",
+      "neolibyans",
+      "scourgers",
+      "scrappers",
+      "spitalians"
+    ],
+    "attribute_bonus": [
+      "INT",
+      "AGI"
+    ],
+    "skill_bonus": [
+      "melee",
+      "mobility",
+      "stealth",
+      "medicine",
+      "orienteering"
+    ]
+  },
+  "purgare": {
+    "name": "Purgare",
+    "icon": "",
+    "common_cults": [
+      "anabaptists",
+      "apocalyptics",
+      "clanners",
+      "hellvetics",
+      "scrappers",
+      "spitalians"
+    ],
+    "attribute_bonus": [
+      "CHA",
+      "PSY"
+    ],
+    "skill_bonus": [
+      "conduct",
+      "legends",
+      "faith/willpower",
+      "domination",
+      "taming"
+    ]
+  },
+  "africa": {
+    "name": "Africa",
+    "icon": "",
+    "common_cults": [
+      "anubians",
+      "apocalyptics",
+      "clanners",
+      "neolibyans",
+      "scourgers",
+      "scrappers"
+    ],
+    "attribute_bonus": [
+      "INT",
+      "BOD"
+    ],
+    "skill_bonus": [
+      "athletics",
+      "brawl",
+      "expression",
+      "medicine",
+      "reaction"
+    ]
+  }
+}
